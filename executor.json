@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Arceus X NEO",
+    "rating": 4.5,
+    "avatar": "https://files.catbox.moe/6l8y21.webp",
+    "version": "2.737.1584",
+    "versionVng": null,
+    "status": "working",
+    "statusVng": null,
+    "platforms": ["android"],
+    "downloadUrl": "https://android.spdmteam.com/",
+    "downloadVngUrl": null
+  },
+  {
+    "name": "Codex",
+    "rating": 4.8,
+    "avatar": "https://files.catbox.moe/t43q3r.webp",
+    "version": "2.731.944",
+    "versionVng": null,
+    "status": "down",
+    "statusVng": null,
+    "platforms": ["android"],
+    "downloadUrl": "https://bom.so/0yETOR",
+    "downloadVngUrl": null
+  },
+  {
+    "name": "Delta",
+    "rating": 4.9,
+    "avatar": "https://deltaexploits.gg/assets/favicon.ico",
+    "version": "2.736.1408",
+    "versionVng": "2.735.1138",
+    "status": "working",
+    "statusVng": "down",
+    "platforms": ["android"],
+    "downloadUrl": "https://gloopup.net/Delta/android/",
+    "downloadVngUrl": "https://modsfire.com/Wx3d32xiT29z52d"
+  },
+  {
+    "name": "Delta",
+    "rating": 4.9,
+    "avatar": "https://deltaexploits.gg/assets/favicon.ico",
+    "version": "2.737.1581",
+    "versionVng": "2.737.1584",
+    "status": "working",
+    "statusVng": "working",
+    "platforms": ["ios"],
+    "downloadUrl": "https://cdn.glopdelivery.com/file/Delta-2.737.1581.ipa",
+    "downloadVngUrl": "https://ipas.cc/m8jzw4"
+  },
+  {
+    "name": "Trigon",
+    "rating": 4.5,
+    "avatar": "https://img.upanh.moe/ynRPDwBx/81e69e89eab4.webp",
+    "version": "2.730.790",
+    "versionVng": null,
+    "status": "down",
+    "statusVng": null,
+    "platforms": ["android"],
+    "downloadUrl": "https://trigonevo.com/download?os=android&fs=mediafire",
+    "downloadVngUrl": null
+  },
+  {
+    "name": "Vega X",
+    "rating": 4.4,
+    "avatar": "https://vegax.gg/assets/img/V_logo_white.png",
+    "version": "2.734.917",
+    "versionVng": null,
+    "status": "down",
+    "statusVng": null,
+    "platforms": ["android"],
+    "downloadUrl": "https://github.com/1f0yt/community/releases",
+    "downloadVngUrl": null
+  },
+  {
+    "name": "Velocity",
+    "rating": 4.4,
+    "avatar": "https://files.catbox.moe/tj6brv.png",
+    "version": "145f189a6a974303",
+    "versionVng": null,
+    "status": "down",
+    "statusVng": null,
+    "platforms": ["windows"],
+    "downloadUrl": "https://gofile.io/d/6HAQxH",
+    "downloadVngUrl": null
+  },
+  {
+    "name": "Madium",
+    "rating": 4.6,
+    "avatar": "https://files.catbox.moe/eydesa.webp",
+    "version": "c5aecda2245e4fae",
+    "versionVng": null,
+    "status": "working",
+    "statusVng": null,
+    "platforms": ["windows"],
+    "downloadUrl": "https://getmadium.net/",
+    "downloadVngUrl": null
+  },
+  {
+    "name": "Real",
+    "rating": 4.8,
+    "avatar": "https://bom.so/bcqCMj",
+    "version": "c5aecda2245e4fae",
+    "versionVng": null,
+    "status": "working",
+    "statusVng": null,
+    "platforms": ["windows"],
+    "downloadUrl": "https://projectreal.gg/",
+    "downloadVngUrl": null
+  }
+]
